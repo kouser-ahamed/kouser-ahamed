@@ -1,9 +1,9 @@
-![logo](https://github.com/kouser-ahamed/kouser-ahamed/blob/main/banner-pic1.png)
+![logo](https://github.com/kouser-ahamed/kouser-ahamed/blob/main/banner-pic.png)
 
 <h1 align="center">💫 Hi 👋, I'm Kouser Ahamed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;Passionate+About+Frontend+Development;HTML+•+CSS+•+JavaScript+•+React;Learning+MERN+Stack+Step+by+Step;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=Aspiring+Web+Developer;Passionate+about+Frontend+Development;HTML+•+CSS+•+JavaScript+•+React;From+Bangladesh!" alt="Typing SVG" />
 </p>
 
 ---
@@ -86,14 +86,11 @@
 
 <p align="center">
 
-<img height="160em"
-src="https://github-readme-stats.vercel.app/api?username=kouser-ahamed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kouser-ahamed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="160em"
-src="https://streak-stats.demolab.com?user=kouser-ahamed&theme=radical"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=kouser-ahamed&theme=radical&cache_seconds=1800"/>
 
-<img height="160em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahamed&layout=compact&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahamed&layout=compact&theme=radical&cache_seconds=1800"/>
 
 </p>
 
@@ -118,15 +115,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahame
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kouser-ahamed/kouser-ahamed/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
