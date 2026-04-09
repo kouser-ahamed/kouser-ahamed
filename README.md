@@ -3,19 +3,21 @@
 <h1 align="center">💫 Hi 👋, I'm Kouser Ahamed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=Aspiring+Web+Developer;Passionate+about+Frontend+Development;HTML+•+CSS+•+JavaScript+•+React;From+Bangladesh!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering+(Running);Frontend+%26+Backend+Web+Development+Enthusiast;MERN+Stack+Learner;Passionate+About+Building+Modern+Web+Applications;From+Bangladesh!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Sc. in Computer Science & Engineering (Running)**
-- 💻 Passionate about **Frontend & Modern Web Development**
-- 🌱 Currently learning **React & Next.js**
-- 🚀 Exploring the **MERN Stack Journey**
-- 🎯 Goal: Become a **Professional Full Stack Developer**
-- ⚡ Fun fact: **I love building clean & creative UI**
+- 🎓 Currently pursuing **B.Sc. in Computer Science & Engineering**
+- 💻 Passionate about **Frontend Development** with HTML, CSS, JavaScript & React
+- ⚙️ Actively learning **Backend Development** using Node.js, Express.js & MongoDB
+- 🚀 Exploring the **MERN Stack** to build full-stack web applications
+- 🎨 Love creating **clean, responsive, and user-friendly UI**
+- 📚 Continuously improving my skills by building real-world projects
+- 🎯 Goal: Become a **Professional Full Stack Web Developer**
+- ⚡ Fun fact: I enjoy turning creative ideas into working web applications
 
 ---
 
@@ -86,11 +88,7 @@
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kouser-ahamed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
 <img height="160em" src="https://streak-stats.demolab.com?user=kouser-ahamed&theme=radical&cache_seconds=1800"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahamed&layout=compact&theme=radical&cache_seconds=1800"/>
 
 </p>
 
