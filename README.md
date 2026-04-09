@@ -3,26 +3,19 @@
 <h1 align="center">💫 Hi 👋, I'm Kouser Ahamed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;Passionate+About+Clean+UI+%26+Creative+Design;Building+Projects+with+HTML+CSS+JavaScript+React;Learning+MERN+Stack+Step+by+Step;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kouser-ahamed&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;Passionate+About+Frontend+Development;HTML+•+CSS+•+JavaScript+•+React;Learning+MERN+Stack+Step+by+Step;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🚀 I am an enthusiastic **Computer Science & Engineering student** passionate about building modern, responsive, and user-friendly web applications.
-
-💡 I enjoy turning ideas into real-world interactive web experiences using **HTML, CSS, JavaScript, and React**.
-
-🌱 Currently exploring **Next.js & MERN Stack** to become a professional **Full Stack Developer**.
-
-🎯 My goal is to continuously improve my skills and contribute to impactful software projects.
-
-⚡ Fun fact: I love crafting clean UI and learning new technologies every day.
+- 🎓 **B.Sc. in Computer Science & Engineering (Running)**
+- 💻 Passionate about **Frontend & Modern Web Development**
+- 🌱 Currently learning **React & Next.js**
+- 🚀 Exploring the **MERN Stack Journey**
+- 🎯 Goal: Become a **Professional Full Stack Developer**
+- ⚡ Fun fact: **I love building clean & creative UI**
 
 ---
 
@@ -30,11 +23,11 @@
 
 <p align="left">
 
-<a href="https://www.facebook.com/kouserahamed420">
+<a href="https://www.facebook.com/kouserahamed420" target="blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/kouser-ahamed">
+<a href="https://linkedin.com/in/kouser-ahamed" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -89,30 +82,18 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kouser-ahamed&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=kouser-ahamed&show_icons=true&theme=radical&hide_border=true"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=kouser-ahamed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="170em"
-src="https://streak-stats.demolab.com?user=kouser-ahamed&theme=radical&hide_border=true"/>
+<img height="160em"
+src="https://streak-stats.demolab.com?user=kouser-ahamed&theme=radical"/>
 
-</p>
-
-<p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahamed&layout=compact&theme=radical&hide_border=true"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouser-ahamed&layout=compact&theme=radical"/>
 
 </p>
 
