@@ -3,7 +3,7 @@
 <h1 align="center">💫 Hi 👋, I'm Kouser Ahamed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering+(Running);Frontend+%26+Backend+Web+Development+Enthusiast;MERN+Stack+Learner;Passionate+About+Building+Modern+Web+Applications;From+Bangladesh!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering;Frontend+%26+Backend+Web+Development+Enthusiast;MERN+Stack+Learner;Passionate+About+Building+Modern+Web+Applications;From+Bangladesh!" alt="Typing SVG" />
 </p>
 
 ---
