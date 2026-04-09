@@ -1,4 +1,4 @@
-![logo](https://github.com/kouser-ahamed/kouser-ahamed/blob/main/banner-pic.png)
+![logo](https://github.com/kouser-ahamed/kouser-ahamed/blob/main/banner-pic1.png)
 
 <h1 align="center">💫 Hi 👋, I'm Kouser Ahamed</h1>
 
