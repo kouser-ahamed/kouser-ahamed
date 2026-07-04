@@ -52,46 +52,6 @@
 
 ---
 
-### ⚽ TurfCraft — Sports Facility Booking Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](#)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#)
-
-> Digitized sports venue booking system with real-time conflict resolution.
-
-**Tech Stack:** `Next.js` `React.js` `Tailwind CSS` `HeroUI` `Node.js` `Express.js` `MongoDB` `Better Auth` `JWT`
-
-- Built dynamic facility browsing with intelligent search/filtering and interactive booking workflows
-- Secured private routes and APIs with JWT and Better Auth, ensuring robust session persistence
-- Implemented role-based owner dashboards for complete CRUD operations over facilities and bookings
-
----
-
-### 📚 BinaryBooks — Online Book Borrowing Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](#)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#)
-
-> Full-stack digital library management platform with secure authentication.
-
-**Tech Stack:** `Next.js (App Router)` `React.js` `Tailwind CSS` `HeroUI` `MongoDB` `BetterAuth` `SwiperJS`
-
-- Developed interactive UI with dynamic filtering, SwiperJS feedback slider, and announcement marquee
-- Secured all private routes and user sessions using BetterAuth for safe client-side interactions
-
----
-
-### 📊 KeenKeeper — Friendship Tracking & Analytics Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](#)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#)
-
-> Relationship management platform with real-time analytics and timeline filtering.
-
-**Tech Stack:** `React.js` `React Router` `Context API` `Tailwind CSS` `DaisyUI` `Recharts`
-
-- Built interactive dashboards with dynamic timeline filtering and real-time Recharts data visualization
-- Implemented Context API for global state management with nested routing and custom error handling
-
----
-
 ## 💻 Technical Skills
 
 ### Languages
