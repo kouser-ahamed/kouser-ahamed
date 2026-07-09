@@ -25,16 +25,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack web developer focused on building scalable, secure, and production-ready applications with the MERN stack and Next.js. Here's a quick overview of my background and focus areas:
+I'm a **Full-Stack Web Developer** passionate about building scalable, secure, and high-performance web applications that deliver seamless user experiences. I enjoy solving real-world problems by developing modern, production-ready solutions with clean architecture and maintainable code.
 
-- 🎓 B.Sc. in Computer Science & Engineering — Daffodil International University
-- 💻 Full-Stack Web Developer specializing in Next.js, React.js, Node.js, Express.js, and MongoDB
-- 🔐 Strong knowledge of REST APIs, Authentication & Authorization, JWT HTTPOnly Cookies, Better Auth, and Google OAuth
-- 🏗️ Experienced in building scalable role-based web applications with secure authentication and responsive UI
-- 💳 Built real-world platforms featuring Stripe payments, booking systems, dashboards, search & filtering, and CRUD operations
-- ✨ Passionate about writing clean, maintainable, and scalable code
-- 📚 Currently learning TypeScript, Mongoose, and Redux Toolkit
-- 💼 Open to Full-time, Remote, Hybrid, and Software Engineering opportunities
+* 🎓 B.Sc. in **Computer Science & Engineering** — Daffodil International University
+* 💻 Specialized in **Next.js, React.js, Node.js, Express.js, and MongoDB** for building modern full-stack applications
+* 🔐 Experienced with **REST APIs, Authentication & Authorization, JWT HTTPOnly Cookies, Better Auth, and Google OAuth**
+* 🏗️ Built secure **role-based dashboard systems**, responsive user interfaces, and scalable backend architectures
+* 💳 Developed real-world applications featuring **Stripe payment integration, booking systems, search & filtering, server-side pagination, and complete CRUD functionality**
+* 🚀 Passionate about writing **clean, maintainable, scalable, and performance-focused code** following modern development best practices
+* 🌱 Currently expanding my expertise in **TypeScript, Mongoose, and Redux Toolkit**
+* 💼 Open to **Full-time, Remote, Hybrid, and Software Engineering** opportunities where I can contribute, learn, and grow as a developer.
+
 
 ---
 
@@ -149,7 +150,7 @@ I'm a full-stack web developer focused on building scalable, secure, and product
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming_(OOP)-F59E0B?style=for-the-badge)
 ![Deployment Workflows](https://img.shields.io/badge/Deployment_Workflows-10B981?style=for-the-badge)
 
-
+---
 ## 📈 Profile Summary
 
 <div align="center">
