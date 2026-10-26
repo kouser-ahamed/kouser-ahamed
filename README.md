@@ -3,11 +3,11 @@
 ![Banner](https://github.com/kouser-ahamed/kouser-ahamed/blob/main/Banner-2.png)
 
 <h1>Hi 👋, I'm Kouser Ahamed</h1>
-<h3>Software Engineer | Full-Stack Web Developer | MERN Stack Developer | Frontend Developer</h3>
+<h3>Frontend Developer (Intern) @ Next Page Technology Ltd. | Vue.js & Nuxt.js | Full-Stack MERN Developer</h3>
 
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Web+Developer;MERN+Stack+Developer+%7C+Frontend+Developer;Next.js+%7C+React.js+%7C+JavaScript+(ES6%2B)+%7C+Tailwind+CSS;Node.js+%7C+Express.js+%7C+MongoDB+%7C+REST+APIs;Authentication+%26+Authorization+%7C+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Web+Developer;MERN+Stack+Developer+%7C+Frontend+Developer;Next.js+%7C+React.js+%7C+Vue.js+%7C+Nuxt.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB+%7C+REST+APIs;Authentication+%26+Authorization+%7C+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
 </p>
 
 📍 **Dhaka, Bangladesh**
@@ -15,7 +15,7 @@
 <p>
   <a href="https://linkedin.com/in/kouser-ahamed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/kouser-ahamed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:kouserahamed.cse.diu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kouserahamed.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/kouserahamed420"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
@@ -25,15 +25,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** passionate about building scalable, secure, and high-performance web applications that deliver seamless user experiences. I enjoy solving real-world problems by developing modern, production-ready solutions with clean architecture and maintainable code.
+I'm a **Frontend Developer** currently working as an intern at **Next Page Technology Ltd.**, building responsive and reusable dashboard interfaces with **Vue.js, Nuxt.js, and TypeScript**. With a strong full-stack MERN background, I enjoy turning real-world requirements into clean, scalable, and user-friendly web applications.
 
 * 🎓 B.Sc. in **Computer Science & Engineering** — Daffodil International University
-* 💻 Specialized in **Next.js, React.js, Node.js, Express.js, and MongoDB** for building modern full-stack applications
+* 💼 Working as a **Frontend Developer (Intern)** on the **EduGuard360** School Management System at Next Page Technology Ltd.
+* 🟢 Building reusable dashboard interfaces with **Vue.js, Nuxt.js, TypeScript, and Tailwind CSS**
+* 🌐 Experienced in **multilingual (English/Bangla) interfaces**, secure **JWT authentication with automatic token refresh**, and **role-based access control**
+* 💻 Strong full-stack foundation in **Next.js, React.js, Node.js, Express.js, and MongoDB**
 * 🔐 Experienced with **REST APIs, Authentication & Authorization, JWT HTTPOnly Cookies, Better Auth, and Google OAuth**
-* 🏗️ Built secure **role-based dashboard systems**, responsive user interfaces, and scalable backend architectures
-* 💳 Developed real-world applications featuring **Stripe payment integration, booking systems, search & filtering, server-side pagination, and complete CRUD functionality**
+* 💳 Built real-world applications featuring **Stripe payment integration, booking systems, search & filtering, server-side pagination, and complete CRUD functionality**
 * 🚀 Passionate about writing **clean, maintainable, scalable, and performance-focused code** following modern development best practices
-* 🌱 Currently expanding my expertise in **TypeScript, Mongoose, and Redux Toolkit**
+* 🌱 Currently deepening my expertise in **Vue.js and Nuxt.js**
 * 💼 Open to **Full-time, Remote, Hybrid, and Software Engineering** opportunities where I can contribute, learn, and grow as a developer.
 
 
@@ -41,9 +43,36 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, secure, a
 
 ## 🌱 Currently
 
-- 🔷 Learning **TypeScript**
-- 🍃 Exploring **Mongoose**
-- 🔄 Improving my **Redux Toolkit** skills
+- 🟢 Learning **Vue.js**
+- 💚 Learning **Nuxt.js**
+
+---
+
+## 💼 Experience
+
+### Frontend Developer (Intern) — Next Page Technology Ltd.
+📍 Uttara-3, Dhaka (On-site) &nbsp;|&nbsp; 🗓️ Oct 2026 – Present
+
+**Project:** EduGuard360 Client — a web-based School Management System dashboard for administrators, teachers, students, and parents to manage academic, attendance, and fee workflows.
+
+**Tech Stack:** `Vue.js` `Nuxt.js` `TypeScript` `Tailwind CSS`
+
+- 🎨 Built responsive, reusable dashboard interfaces for student, teacher, parent, and staff modules
+- 🔐 Implemented secure JWT authentication with automatic token refresh and role-based access control
+- 🌐 Added English/Bangla language support for a smooth, multilingual user experience
+
+---
+
+### MERN Stack Developer (Intern) — CodeOnix
+📍 Remote &nbsp;|&nbsp; 🗓️ Jun 2026 – Sep 2026
+
+**Project:** OnixSchool Management System — a full-stack school administration platform covering academic, attendance, assessment, fee, communication, and online-class workflows across five user roles.
+
+**Tech Stack:** `React 19` `Node.js` `Express 5` `MongoDB` `Zod` `Stripe` `Cloudinary`
+
+- 🏗️ Contributed to a large-scale MERN platform (257 REST APIs, 32 models, 5 role-based dashboards)
+- 🔐 Implemented JWT authentication, RBAC, and Zod validation
+- 💳 Integrated Stripe/EasyPaisa payments, Google Meet and Zoom OAuth for online classes, Cloudinary uploads, Nodemailer notifications, and node-cron meeting reminders
 
 ---
 
@@ -66,31 +95,18 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, secure, a
 
 ---
 
-### 🏟️ TurfCraft — Sports Facility Booking Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](https://turfcraft.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/kouser-ahamed/turfcraft)
+### 🍱 ShareBite — Community Surplus Food-Sharing Platform
+[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](https://sharebite-frontend-silk.vercel.app/)
+[![Client](https://img.shields.io/badge/Client_Repo-181717?style=flat-square&logo=github)](https://github.com/kouser-ahamed/sharebite-frontend)
+[![Server](https://img.shields.io/badge/Server_Repo-181717?style=flat-square&logo=github)](https://github.com/kouser-ahamed/sharebite-backend)
 
-> A full-stack sports facility booking platform with secure authentication, role-based dashboards, and an online booking system.
+> A full-stack food-sharing platform connecting food owners and communities to reduce food waste.
 
-**Tech Stack:** `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `HeroUI` `Better Auth`
+**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `HeroUI` `Node.js` `Express.js` `MongoDB` `Better Auth` `JWT`
 
-- 🔐 Secure authentication with role-based dashboard access
-- 📅 Online turf/facility booking system with real-time availability
-- 🎨 Clean, responsive UI built with HeroUI and Tailwind CSS
-
----
-
-### 📚 Binary Books — Online Book Borrowing Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Site-22c55e?style=flat-square)](https://binary-books.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/kouser-ahamed/binary-books)
-
-> A modern online book borrowing platform with authentication, book management, and a responsive user experience.
-
-**Tech Stack:** `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth`
-
-- 🔐 Secure user authentication and session management
-- 📖 Book catalog and borrowing/return management system
-- 📱 Fully responsive, modern user experience
+- 🍽️ Food posting, request workflows, and real-time status tracking
+- 🔍 Search, filtering, and pagination for browsing available food
+- 🔐 Secure authentication with Better Auth, Google OAuth, JWT, and ownership-based access control
 
 ---
 
@@ -105,22 +121,32 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, secure, a
 ### Frontend Development
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack_React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
+![Nuxt UI](https://img.shields.io/badge/Nuxt_UI-00DC82?style=for-the-badge)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![SwiperJS](https://img.shields.io/badge/SwiperJS-6332F6?style=for-the-badge)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-FF4154?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+![i18n](https://img.shields.io/badge/i18n_(EN/BN)-4F46E5?style=for-the-badge)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Authentication & Authorization](https://img.shields.io/badge/Authentication_%26_Authorization-4F46E5?style=for-the-badge)
 ![JWT HTTPOnly Cookies](https://img.shields.io/badge/JWT_HTTPOnly_Cookies-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-4F46E5?style=for-the-badge)
@@ -129,18 +155,27 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, secure, a
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL & NoSQL](https://img.shields.io/badge/SQL_%26_NoSQL_Data_Modeling-4479A1?style=for-the-badge)
 ![MongoDB Regex Search](https://img.shields.io/badge/MongoDB_Search_%26_Filtering_(%24regex)-4EA94B?style=for-the-badge)
 ![Server-side Pagination](https://img.shields.io/badge/Server_side_Pagination-13AA52?style=for-the-badge)
 
-### Tools & Libraries
+### Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### AI-Assisted Development Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### Core Concepts
 ![Role-Based Dashboard Systems](https://img.shields.io/badge/Role_Based_Dashboard_Systems-6D28D9?style=for-the-badge)
@@ -183,7 +218,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, secure, a
 ## 📫 Contact
 
 - 📍 **Location:** Dhaka, Bangladesh
-- 📧 **Email:** [kouserahamed.cse.diu@gmail.com](mailto:kouserahamed.cse.diu@gmail.com)
+- 📧 **Email:** [kouserahamed.dev@gmail.com](mailto:kouserahamed.dev@gmail.com)
 - 📞 **Phone:** +8801322699296
 - 💼 Open to **Full-time**, **Remote**, **Hybrid**, and **Software Engineering** opportunities
 
